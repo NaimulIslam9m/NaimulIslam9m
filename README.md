@@ -1,16 +1,45 @@
-### Hi there 👋
+<p align="right">
+    <a href="mailto:naimul9m@gmail.com"><img height="25" src="https://i.imgur.com/FOxl535.png"></a>
+    <a href="https://www.linkedin.com/in/NaimulIslam9m/"><img height="25" src="https://i.ibb.co/37T7zn7/360-F-296542385-MRAz-EGWu-XRZEFy-Zs-Dk9k-YGc-YQIt-HGv-ES-1.jpg"></a>
+    <a href="https://www.facebook.com/ssj.naim.54"><img height="25" src="https://i.imgur.com/wyJq4zr.png"></a>
+    <a href="https://stackoverflow.com/users/11542972/naimul-islam"><img height="25" src="https://i.ibb.co/CKgQ0zx/image.png"></a>
+<p>
 
-<!--
-**NaimulIslam9m/NaimulIslam9m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 😊
+#### I'm Naim,<br>
+Currently doing my B.Sc.Eng. in  computer science and engineering at SUST
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+
+![badge-c](https://img.shields.io/badge/language-C-7fdbda?style=for-the-badge&logo=c&logoColor=white&labelColor=21223e)
+![badge-cpp](https://img.shields.io/badge/language-C%2B%2B-7fdbda?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=21223e)
+![badge-java](https://img.shields.io/badge/language-java-7fdbda?style=for-the-badge&logo=java&logoColor=white&labelColor=21223e)
+![badge-python](https://img.shields.io/badge/language-python-7fdbda?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
+![badge-javascript](https://img.shields.io/badge/language-javascript-7fdbda?style=for-the-badge&logo=javascript&logoColor=white&labelColor=21223e)
+![badge-ubuntu](https://img.shields.io/badge/os-ubuntu-7fdbda?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=21223e)
+![badge-android](https://img.shields.io/badge/framework-android-7fdbda?style=for-the-badge&logo=android&logoColor=white&labelColor=21223e)
+![badge-sqlite](https://img.shields.io/badge/database-sqlite-7fdbda?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=21223e)
+![badge-vscode](https://img.shields.io/badge/editor-vscode-7fdbda?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
+![badge-android studio](https://img.shields.io/badge/IDE-android_studio-7fdbda?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=21223e)
+
+## Online Judge
+[![badge-hackerrank](https://img.shields.io/badge/-hackerrank-00c01c?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=21223e)](https://www.hackerrank.com/Naim19)
+[![badge-leetcode](https://img.shields.io/badge/-leetcode-00c01c?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=21223e)](https://leetcode.com/i_o__o_i/)
+[![badge-codeforces](https://img.shields.io/badge/-codeforces-00c01c?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=21223e)](https://codeforces.com/profile/Naim)
+
+<br />
+
+<p align = "center">
+
+<img height = "200" src = "https://github-readme-stats.vercel.app/api?username=NaimulIslam9m&count_private=true&show_icons=true" />
+<img height = "200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulIslam9m&layout=compact" />
+
+</p>
+
+<p align = "center">
+
+<img src = "https://github-profile-trophy.vercel.app/?username=NaimulIslam9m&row=2&margin-w=5&margin-h=5&count_private=true" />
+
+</p>
