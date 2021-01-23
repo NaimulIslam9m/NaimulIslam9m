@@ -33,8 +33,8 @@ Currently doing my B.Sc.Eng. in  computer science and engineering at SUST
 
 <p align = "center">
 
-<img height = "210" src = "https://github-readme-stats.vercel.app/api?username=NaimulIslam9m&count_private=true&show_icons=true" />
-<img height = "210" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulIslam9m" />
+<img height = "200" src = "https://github-readme-stats.vercel.app/api?username=NaimulIslam9m&count_private=true&show_icons=true" />
+<img height = "200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulIslam9m&layout=compact" />
 
 </p>
 
