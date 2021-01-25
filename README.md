@@ -8,7 +8,7 @@
 
 ### Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 😊
 #### I'm Naim,<br>
-Currently doing my B.Sc.Eng. in  computer science and engineering at SUST
+Currently pursuing my B.Sc.Eng. in  computer science and engineering at SUST
 
 <br />
 
