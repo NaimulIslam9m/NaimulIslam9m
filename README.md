@@ -25,9 +25,9 @@ Currently pursuing my B.Sc.Eng. in  computer science and engineering at SUST
 ![badge-android studio](https://img.shields.io/badge/IDE-android_studio-7fdbda?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=21223e)
 
 ## Online Judge
-[![badge-hackerrank](https://img.shields.io/badge/-hackerrank-00c01c?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=21223e)](https://www.hackerrank.com/Naim19)
+[![badge-stopstalk](https://img.shields.io/badge/-stopstalk-00c01c?style=for-the-badge&logo=stopstalk&logoColor=white&labelColor=21223e)](https://www.stopstalk.com/user/profile/SSJ_naiM)
 [![badge-leetcode](https://img.shields.io/badge/-leetcode-00c01c?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=21223e)](https://leetcode.com/i_o__o_i/)
-[![badge-codeforces](https://img.shields.io/badge/-codeforces-00c01c?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=21223e)](https://codeforces.com/profile/Naim)
+
 
 <br />
 
