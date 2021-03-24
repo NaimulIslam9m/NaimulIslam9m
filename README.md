@@ -1,5 +1,6 @@
-### <center> Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 😊 </center>
-#### I'm Naim,<br>
+<h3> <p align = "center" color = "cyan"> Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 😊 </p> </h3>
+
+#### I'm Naim,<br />
 **Currently pursuing my B.Sc.Eng. in  computer science and engineering at SUST**
 
 - Studying CyberSecurity 🛡️
