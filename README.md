@@ -1,4 +1,4 @@
-### Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 😊
+### <span style="color:cyan"><center> Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh 😊 </center><span>
 #### I'm Naim,<br>
 **Currently pursuing my B.Sc.Eng. in  computer science and engineering at SUST**
 
